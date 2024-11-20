@@ -13,7 +13,7 @@
     #  The CameraInfo URL (Uniform Resource Locator) where the optional intrinsic
     #  camera calibration parameters are stored. This URL string will be parsed
     #  from the ROS-CameraInfoManager:
-    camera_info_url: "file:////home/user/afcagc_agc_mtt/src/pylon_ros2_camera/pylon_ros2_camera_wrapper/config/wolf_cam_params.yaml"
+    camera_info_url: "file:////home/user/afcagc_agc_mtt/src/pylon_ros2_camera/pylon_ros2_camera_wrapper/config/jeep_cam_params.yaml"
     
 
     #  The encoding of the pixels -- channel meaning, ordering, size

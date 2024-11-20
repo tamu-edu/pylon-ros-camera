@@ -114,7 +114,7 @@ def generate_launch_description():
 
     declare_enable_current_params_publisher_cmd = DeclareLaunchArgument(
         'enable_current_params_publisher',
-        default_value='true',
+        default_value='false',
         description='Enable/Disable the current parameter publishing.'
     )
 
